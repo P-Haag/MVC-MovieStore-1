@@ -7,7 +7,7 @@ namespace Vidly.Migrations
     {
         public override void Up()
         {
-            DropColumn("dbo.Customers", "birthdate");
+            //DropColumn("dbo.Customers", "birthdate");
         }
         
         public override void Down()
